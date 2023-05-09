@@ -1,0 +1,87 @@
+[
+  {
+    "name": "AsusRog strix",
+    "price": "1200.00",
+    "description": "This is a laptop",
+    "rating": 4.5,
+    "images": [
+      {
+        "public_id": "products/xyz123",
+        "url": "https://source.unsplash.com/random/1920x1080/?wallpaper,laptop"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 12,
+    "numOfReviews": 5,
+    "reviews": []
+  },
+  {
+    "name": "Bloody keyboard",
+    "price": "25.75",
+    "description": "This is a Keyboard",
+    "rating": 3.9,
+    "images": [
+      {
+        "public_id": "products/xyz1239",
+        "url": "https://source.unsplash.com/random/1920x1080/?wallpaper,keyboard"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 6,
+    "numOfReviews": 11,
+    "reviews": []
+  },
+  {
+    "name": "Samsung OLD",
+    "price": "450.75",
+    "description": "This is a Monitor",
+    "rating": 4.12,
+    "images": [
+      {
+        "public_id": "products/xyz1236",
+        "url": "https://source.unsplash.com/random/1920x1080/?wallpaper,monitor"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Rehman",
+    "stock": 3,
+    "numOfReviews": 8,
+    "reviews": []
+  },
+  {
+    "name": "Razor viper",
+    "price": "55.00",
+    "description": "This is a Mouse",
+    "rating": 4.7,
+    "images": [
+      {
+        "public_id": "products/xyz1234",
+        "url": "https://source.unsplash.com/random/1920x1080/?wallpaper,mouse"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Abdul",
+    "stock": 19,
+    "numOfReviews": 1,
+    "reviews": []
+  },
+  {
+    "name": "Cossair Headphones",
+    "price": "65.50",
+    "description": "This is a Headphone",
+    "rating": 3.5,
+    "images": [
+      {
+        "public_id": "products/xyz1234",
+        "url": "https://source.unsplash.com/random/1920x1080/?wallpaper,headset"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Amazon",
+    "stock": 21,
+    "numOfReviews": 2,
+    "reviews": []
+  }
+]
